@@ -2,4 +2,50 @@ body {
     background-image: url('/images/bg-image.jpg');
     background-repeat: no-repeat;
     background-position: center;
+    min-height: 90vh; 
+    margin: 0; 
+    display: flex;
+    flex-direction: column; 
+}
+
+.header-text h1 {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px; 
+}
+
+.quotes-section {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px auto 50px;
+    width: 28.438em;
+    border: 2px solid rgb(107, 199, 211);
+    padding: 10px;
+    border-radius: 15px 50px 15px;
+  
+}
+
+blockquote p {
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+}
+
+blockquote footer {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+footer {
+    color: white;
+    text-align: center; 
+    margin-top: auto; 
+    padding: 2px;
 }
