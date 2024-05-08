@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "author": "Walt Disney",
+      "quote": "All our dreams can come true, if we have the courage to pursue them."
+    },
+    {
+      "id": 2,
+      "author": "Albert Einstein",
+      "quote": "Strive not to be a success, but rather to be of value."
+    },
+    {
+      "id": 3,
+      "author": "Maya Angelou",
+      "quote": "Success is liking yourself, liking what you do, and liking how you do it."
+    },
+    {
+      "id": 4,
+      "author": "Steve Jobs",
+      "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+    },
+    {
+      "id": 5,
+      "author": "Oprah Winfrey",
+      "quote": "The biggest adventure you can take is to live the life of your dreams."
+    },
+    {
+      "id": 6,
+      "author": "Nelson Mandela",
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+    },
+    {
+      "id": 7,
+      "author": "Eleanor Roosevelt",
+      "quote": "The future belongs to those who believe in the beauty of their dreams."
+    },
+    {
+      "id": 8,
+      "author": "Winston Churchill",
+      "quote": "Success consists of going from failure to failure without loss of enthusiasm."
+    },
+    {
+      "id": 9,
+      "author": "Helen Keller",
+      "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+    },
+    {
+      "id": 10,
+      "author": "Les Brown",
+      "quote": "Shoot for the moon. Even if you miss it you will land among the stars."
+    },
+    {
+      "id": 11,
+      "author": "Dalai Lama",
+      "quote": "Happiness is not something ready-made. It comes from your own actions."
+    },
+    {
+      "id": 12,
+      "author": "Walt Whitman",
+      "quote": "Keep your face always toward the sunshine - and shadows will fall behind you."
+    },
+    {
+      "id": 13,
+      "author": "Vincent Van Gogh",
+      "quote": "I am seeking, I am striving, I am in it with all my heart."
+    },
+    {
+      "id": 14,
+      "author": "Mother Teresa",
+      "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier."
+    },
+    {
+      "id": 15,
+      "author": "Mark Twain",
+      "quote": "The secret of getting ahead is getting started."
+    },
+    {
+      "id": 16,
+      "author": "Ralph Waldo Emerson",
+      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+    },
+    {
+      "id": 17,
+      "author": "Rumi",
+      "quote": "The wound is the place where the Light enters you."
+    },
+    {
+      "id": 18,
+      "author": "C.S. Lewis",
+      "quote": "You are never too old to set another goal or to dream a new dream."
+    },
+    {
+      "id": 19,
+      "author": "J.K. Rowling",
+      "quote": "It is our choices, Harry, that show what we truly are, far more than our abilities."
+    },
+    {
+      "id": 20,
+      "author": "W. Clement Stone",
+      "quote": "Whatever the mind of man can conceive and believe, it can achieve."
+    }
+    
+]
