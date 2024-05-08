@@ -2,7 +2,7 @@ body {
     background-image: url('/images/bg-image.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    min-height: 90vh; 
+    min-height: 80vh; 
     margin: 0; 
     display: flex;
     flex-direction: column; 
@@ -16,7 +16,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 60px; 
+}
+.header-text p {
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .quotes-section {
@@ -24,10 +31,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 200px auto 50px;
+    margin: 50px auto 50px;
     width: 28.438em;
     border: 2px solid rgb(107, 199, 211);
-    padding: 10px;
+    padding: 9px;
     border-radius: 15px 50px 15px;
   
 }
@@ -43,9 +50,35 @@ blockquote footer {
     font-size: 18px;
 }
 
+#getQuoteButton {
+    margin: 20px auto 50px;
+    width: 28.438em;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#getQuoteButton:hover {
+    background-color: #0056b3;
+}
+
 footer {
     color: white;
     text-align: center; 
     margin-top: auto; 
     padding: 2px;
+}
+
+footer a {
+    color: rgb(107, 199, 211);
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #007bff;
 }
