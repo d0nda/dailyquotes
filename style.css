@@ -1,5 +1,5 @@
 body {
-    background-image: url('/images/bg-image.jpg');
+    background-image: url('https://github.com/d0nda/dailyquotes/blob/main/images/bg-image.jpg?raw=true');
     background-repeat: no-repeat;
     background-position: center;
     min-height: 80vh; 
