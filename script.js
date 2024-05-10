@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Function to fetch and display a new quote
     function fetchAndDisplayQuote() {
-        // Fetch JSON data (example URL)
+        // Fetch JSON data
         fetch('quotes.json')
             .then(response => response.json())
             .then(data => {
