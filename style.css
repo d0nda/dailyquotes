@@ -32,7 +32,8 @@ body {
     align-items: center;
     justify-content: center;
     margin: 50px auto 50px;
-    width: 28.438em;
+    width: 30.438em;
+    height: 11em;
     border: 2px solid rgb(107, 199, 211);
     padding: 9px;
     border-radius: 15px 50px 15px;
@@ -92,6 +93,7 @@ footer a:hover {
         justify-content: center;
         margin: 50px auto 50px;
         width: 19em;
+        height: 17em;
         border: 2px solid rgb(107, 199, 211);
         padding: 9px;
         border-radius: 15px 50px 15px;
